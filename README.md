@@ -4,7 +4,7 @@ Este proyecto consiste en clonar una plantilla de un layout, asegurando que sea 
 
 ## Despliegue
 
-El proyecto está desplegado en Netlify: [Happines-Jefferson.com]()
+El proyecto está desplegado en Netlify: [Happines-Jefferson.com](https://happinessjefferson.netlify.app/)
 
 ## Herramienta de Seguimiento de Tiempo
 
